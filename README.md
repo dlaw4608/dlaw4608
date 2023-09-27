@@ -49,7 +49,7 @@
 <br>
 
 ## Keep in touch with me 
-<a href="https://linkedin.com/in/alectineschleidens">
+<a href="https://linkedin.com/in/daniel-lawton-209618290">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
