@@ -1,7 +1,7 @@
 ### Welcome to my Profile
 
 
-**3rd-year Applied Computing Student** 
+**4th-year Computer Science Student** 
 <br>
 <be>
        <br>     
@@ -13,7 +13,7 @@
   ## About me &#128513;
   <p>
   <b>
-  I'm an Applied computing student specialising in the Internet of Things currently in my 3rd year at South East Technological 
+  I'm a computer science student specialising in the Internet of Things currently in my final year at South East Technological 
   University (SETU).
 
   This is where I keep projects I have completed throughout each semester.
