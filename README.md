@@ -4,8 +4,6 @@
 **4th-year Computer Science Student** 
 <br>
 <be>
-       <br>     
-            ![Yolov5example](https://github.com/dlaw4608/dlaw4608/assets/91201621/4e40eb22-e080-46a0-8333-9284d0d2864e)
 
 
 <be>
@@ -13,7 +11,7 @@
   ## About me &#128513;
   <p>
   <b>
-  I'm a computer science student specialising in the Internet of Things currently in my final year at South East Technological 
+  I'm a computer science student specialising in the Internet of Things, currently in my final year at South East Technologica Universityl 
   University (SETU).
 
   This is where I keep projects I have completed throughout each semester.
